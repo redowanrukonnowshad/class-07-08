@@ -286,6 +286,6 @@ footer ul li
 }
 footer .copyright
 {
-    color: #CDCDCD;
+    color: #CDCDCD !important;
 
 }
